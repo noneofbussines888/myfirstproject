@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#I have made a copy
 # Professional Bash Script for Server Performance Stats
 
 # Function to display total CPU usage
